@@ -3,7 +3,7 @@
 # Database credentials
 DB_HOST="localhost"
 DB_PORT="27017"
-DB_NAME="pa11y-webservice"
+DB_NAME=""
 
 # Backup directory
 BACKUP_DIR="backups/mongodb"

@@ -3,7 +3,7 @@
 # Database credentials
 DB_USER="root"
 # DB_PASSWORD=""    uncomment this line if you want to use a password
-DB_NAME="accessibility"
+DB_NAME=""
 
 # Backup directory
 BACKUP_DIR="backups/mysql"

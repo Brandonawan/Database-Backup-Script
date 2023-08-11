@@ -1,6 +1,6 @@
 # Database Backup Script
 
-This script allows you to create backups of your MySQL, PostgreSQL, and MongoDB databases.
+This scripts allows you to automate the process of backing up and restoring databases. It supports PostgreSQL, MongoDB, and MySQL databases.
 
 ## Usage
 
